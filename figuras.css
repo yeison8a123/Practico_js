@@ -1,0 +1,44 @@
+header {
+    display: grid;
+    place-items: center;
+    background: black;
+    color: white;
+}
+
+div {
+    display: grid;
+    grid-template-columns:auto auto auto;
+    background-color: aqua;
+}
+
+section {
+    display: grid;
+    grid-template-rows: auto;
+    margin: 15px 0 15px 15px;
+    border: 1px;
+    border: 1px solid black;
+    padding: 15px;
+    background: black;
+    color: white;
+}
+
+h2 {
+    display: grid;
+    place-items: center;
+}
+.formulario {
+    display: grid;
+    grid-template-rows: auto;
+    color: blue;
+}
+
+input {
+    margin-bottom: 2px;
+}
+
+button {
+    margin: 2px;
+    background: purple;
+    color: white;
+    border: none;
+}
