@@ -1,5 +1,15 @@
 body {
-    color: deeppink;
+    width: 100%;
+    color: #333;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 15px;
+    padding: 0;
+}
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #DDD;
 }
